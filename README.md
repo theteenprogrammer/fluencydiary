@@ -7,10 +7,13 @@ The way it'll tie in with language learning is it'll be connected to a dictionar
 Maybe I'll try to find some api that rates the text on its level so people can consume the content depending on the level.
 I'll try to create some flashcard system with it or connect it to an app like Quizlet, Memrise or Brainscape so you can learn the words because that's what tutors do and this would effectively automate that.
 
-Login + Reg System with cookie save so you login once
+Login + Reg System with cookie save so you login once that I downloaded from somewhere
 Profile to give a little context of what your role is
 Text editor + panel with API work
 Database oc will be MySQL
 Scripting oc PHP
 
 I'll code it & then implement security stuff but this project ain't a rush and imma try implement it into something a lot bigger yeah.
+
+
+Text editor will just be enough to do headings, bold, italics and might have special character options depending on the language.
