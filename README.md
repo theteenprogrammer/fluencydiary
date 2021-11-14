@@ -16,4 +16,4 @@ Scripting oc PHP
 I'll code it & then implement security stuff but this project ain't a rush and imma try implement it into something a lot bigger yeah.
 
 
-Text editor will just be enough to do headings, bold, italics and might have special character options depending on the language.
+Text editor will just be enough to do headings and text that's all!
